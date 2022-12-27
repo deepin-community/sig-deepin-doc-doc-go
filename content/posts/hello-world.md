@@ -1,8 +1,8 @@
 ---
-title: "XXXX 小组现已建立！"
+title: "deepin doc doc go 小组现已建立！"
 date: 2022-09-16T14:00:00+08:00
 draft: false
-authors: ["张三"]
+authors: ["xzl01"]
 tags: ["成果公示"]
 ---
 
